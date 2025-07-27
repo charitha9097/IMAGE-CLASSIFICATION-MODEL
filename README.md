@@ -47,6 +47,10 @@ The model is compiled using the Adam optimizer and Sparse Categorical Crossentro
 Evaluation & Visualization
 The trained model is evaluated on the test set to measure accuracy. Additionally, training history (accuracy and loss over epochs) is plotted to analyze model performance.)
 
+#OUTPUT
+
+<img width="1059" height="882" alt="Image" src="https://github.com/user-attachments/assets/3b7163d9-05c7-4f43-ba40-0a31db31ab0f" />
+
 
 
 
